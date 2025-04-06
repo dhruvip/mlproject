@@ -9,8 +9,8 @@ numpy = "*"
 seaborn = "*"
 mlproject = {editable = true, file = "file:///home/dhruvi/dhruvi/mlproject"}
 catboost = "*"
-scikit-learn = "*"
 xgboost = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
