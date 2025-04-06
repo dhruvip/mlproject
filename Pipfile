@@ -8,8 +8,12 @@ pandas = "*"
 numpy = "*"
 seaborn = "*"
 mlproject = {editable = true, file = "file:///home/dhruvi/dhruvi/mlproject"}
+catboost = "*"
+scikit-learn = "*"
+xgboost = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "2.7"
